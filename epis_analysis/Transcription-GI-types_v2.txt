@@ -1,0 +1,55 @@
+name	description	R-colour	block	description-num
+no.no.DOWN-negGI	buffering	firebrick	no.no.DOWN-negGI	1
+no.no.UP-posGI	buffering	firebrick	no.no.UP-posGI	1
+down.down.DOWN-negGI	quantitative buffering	firebrick1	down.down.DOWN-negGI	2
+down.no.DOWN-negGI	quantitative buffering	firebrick1	down.no.DOWN-negGI	2
+no.down.DOWN-negGI	quantitative buffering	firebrick1	down.no.DOWN-negGI	2
+no.up.UP-posGI	quantitative buffering	firebrick1	up.no.UP-posGI	2
+up.no.UP-posGI	quantitative buffering	firebrick1	up.no.UP-posGI	2
+up.up.UP-posGI	quantitative buffering	firebrick1	up.up.UP-posGI	2
+down.down.NO-posGI	suppression	darkolivegreen	down.down.NO-posGI	3
+down.no.NO-posGI	suppression	darkolivegreen	down.no.NO-posGI	3
+no.down.NO-posGI	suppression	darkolivegreen	down.no.NO-posGI	3
+no.up.NO-negGI	suppression	darkolivegreen	up.no.NO-negGI	3
+up.no.NO-negGI	suppression	darkolivegreen	up.no.NO-negGI	3
+up.up.NO-negGI	suppression	darkolivegreen	up.up.NO-negGI	3
+down.down.DOWN-posGI	quantitative suppression	darkolivegreen3	down.down.DOWN-posGI	4
+down.no.DOWN-posGI	quantitative suppression	darkolivegreen3	down.no.DOWN-posGI	4
+no.down.DOWN-posGI	quantitative suppression	darkolivegreen3	down.no.DOWN-posGI	4
+no.up.UP-negGI	quantitative suppression	darkolivegreen3	up.no.UP-negGI	4
+up.no.UP-negGI	quantitative suppression	darkolivegreen3	up.no.UP-negGI	4
+up.up.UP-negGI	quantitative suppression	darkolivegreen3	up.up.UP-negGI	4
+down.up.DOWN-negGI	masking	deepskyblue	down.up.DOWN-negGI	5
+down.up.UP-posGI	masking	deepskyblue	down.up.UP-posGI	5
+up.down.DOWN-negGI	masking	deepskyblue	down.up.DOWN-negGI	5
+up.down.UP-posGI	masking	deepskyblue	down.up.UP-posGI	5
+down.down.UP-posGI	inversion	goldenrod1	down.down.UP-posGI	6
+down.no.UP-posGI	inversion	goldenrod1	down.no.UP-posGI	6
+no.down.UP-posGI	inversion	goldenrod1	down.no.UP-posGI	6
+no.up.DOWN-negGI	inversion	goldenrod1	up.no.DOWN-negGI	6
+up.no.DOWN-negGI	inversion	goldenrod1	up.no.DOWN-negGI	6
+up.up.DOWN-negGI	inversion	goldenrod1	up.up.DOWN-negGI	6
+down.down.NO-negGI	misc	plum3	down.down.NO-negGI	7
+down.down.UP-negGI	misc	plum3	down.down.UP-negGI	7
+down.no.NO-negGI	misc	plum3	down.no.NO-negGI	7
+down.no.UP-negGI	misc	plum3	down.no.UP-negGI	7
+no.down.NO-negGI	misc	plum3	down.no.NO-negGI	7
+no.down.UP-negGI	misc	plum3	down.no.UP-negGI	7
+no.no.DOWN-posGI	misc	plum3	no.no.DOWN-posGI	7
+no.no.NO-negGI	misc	plum3	no.no.NO-negGI	7
+no.no.NO-posGI	misc	plum3	no.no.NO-posGI	7
+no.no.UP-negGI	misc	plum3	no.no.UP-negGI	7
+no.up.DOWN-posGI	misc	plum3	up.no.DOWN-posGI	7
+no.up.NO-posGI	misc	plum3	up.no.NO-posGI	7
+up.no.DOWN-posGI	misc	plum3	up.no.DOWN-posGI	7
+up.no.NO-posGI	misc	plum3	up.no.NO-posGI	7
+up.up.DOWN-posGI	misc	plum3	up.up.DOWN-posGI	7
+up.up.NO-posGI	misc	plum3	up.up.NO-posGI	7
+down.up.NO-negGI	misc	plum3	down.up.NO-negGI	7
+down.up.NO-posGI	misc	plum3	up.down.NO-posGI	7
+up.down.NO-negGI	misc	plum3	down.up.NO-negGI	7
+up.down.NO-posGI	misc	plum3	up.down.NO-posGI	7
+down.up.DOWN-posGI	misc	plum3	down.up.DOWN-posGI	7
+up.down.DOWN-posGI	misc	plum3	down.up.DOWN-posGI	7
+up.down.UP-negGI	misc	plum3	down.up.UP-negGI	7
+down.up.UP-negGI	misc	plum3	down.up.UP-negGI	7
